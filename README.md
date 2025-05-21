@@ -7,7 +7,7 @@ We are given data of personnels involving various features which might be affect
 We are supposed to train a model to predict whether the loan of given people would be approved.
 
 ## DATA
-The data is stored in LoanData.csv file which includes several columns, the first 70% of Data was used to train the model and the next 30% to test it.
+The data is stored in LoanData.csv file which includes several columns, 70% of Data was randomly selected and used to train the model and the remainig 30% to test it.
 
 ```bash
   gender	    : Gender of the applicant
